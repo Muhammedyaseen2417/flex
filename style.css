@@ -1,0 +1,22 @@
+*{
+    margin: 2px;
+    padding: 2px;
+}
+
+
+.master{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+        
+}
+.box{
+    color: black;
+    height: 400px;
+    width: 250px;
+
+}
+#img1 img{
+    width: 100%;
+
+}
